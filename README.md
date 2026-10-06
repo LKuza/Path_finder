@@ -20,7 +20,7 @@ Path Finder — это Windows Forms приложение на C#, которо�
 - 🔍 **Отображать препятствия** в виде цветных маркеров
 -  **Запускать алгоритмы** поиска пути (в разработке)
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
 
 ---
 
