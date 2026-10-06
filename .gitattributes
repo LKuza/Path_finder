@@ -2,6 +2,10 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text=auto
+*.cs text diff=csharp
+*.csproj text
+*.resx text
+*.Designer.cs text diff=csharp
 
 ###############################################################################
 # Set default behavior for command prompt diff.
